@@ -1,5 +1,7 @@
 # docusaurus-deploy-action
 
+DEPRECATED: this was an inferior attempt at a docusaurus publishing action. Please use the docusaurus' suggested example github workflow.
+
 Action for deploying docusaurus documentation (should work for v1 and v2).
 
 Required input arguments:
